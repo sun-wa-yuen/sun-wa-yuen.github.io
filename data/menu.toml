@@ -1,4 +1,9 @@
 [[entries]]
+title = "PRO TIP"
+entries = [
+   { title = "多言多敗，沉默是金" }
+  ]
+[[entries]]
 title = "all posts"
 
   [entries.post_list]
@@ -17,24 +22,7 @@ title = "posts by category"
   show_more_url = "posts"
 
 [[entries]]
-title = "rss"
-url = "index.xml"
-
-[[entries]]
-title = "another list"
-
-  [[entries.entries]]
-  title = "with subitems"
-
     [[entries.entries.entries]]
-    title = "with subsubitems"
-
-    [[entries.entries.entries]]
-    title = "example page"
+    title = "about"
     url = "about"
 
-[[entries]]
-title = "PRO TIP"
-entries = [
-   { title = "to edit this menu, edit data/menu.toml file" }
-  ]
