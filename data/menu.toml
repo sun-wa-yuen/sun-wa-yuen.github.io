@@ -3,6 +3,7 @@ title = "PRO TIP"
 entries = [
    { title = "多言多敗，沉默是金" }
   ]
+
 [[entries]]
 title = "all posts"
 
@@ -22,7 +23,7 @@ title = "posts by category"
   show_more_url = "posts"
 
 [[entries]]
-    [[entries.entries.entries]]
-    title = "about"
-    url = "about"
-
+title = "misc"
+  [[entries.entries]]
+  title = "about"
+  url = "/about/"
